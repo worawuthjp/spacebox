@@ -1,3 +1,5 @@
 import styled from 'styled-components';
 
-export const TypeDetailStyle = styled.div``;
+const TypeDetailStyle = styled.div``;
+
+export default TypeDetailStyle;

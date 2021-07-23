@@ -1,3 +1,5 @@
 import styled from 'styled-components';
 
-export const TypeStyle = styled.div``;
+const TypeStyle = styled.div``;
+
+export default TypeStyle;

@@ -1,9 +1,8 @@
 import { Layout } from 'components';
-import _, { clone } from 'lodash';
 import { useRouter } from 'next/router';
 import React, { useEffect, useRef, useState } from 'react';
-import { Col, Container, Image, Row } from 'react-bootstrap';
-import { TypeDetailStyle } from './styled';
+import { Col, Image } from 'react-bootstrap';
+import TypeDetailStyle from './styled';
 
 export default function TypeDetailPage() {
   const router = useRouter();

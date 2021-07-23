@@ -1,3 +1,5 @@
 import styled from 'styled-components';
 
-export const ProductPageStyle = styled.div``;
+const ProductPageStyle = styled.div``;
+
+export default ProductPageStyle;

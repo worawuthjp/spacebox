@@ -1,5 +1,5 @@
 import React from 'react';
-import { Col, Container, Image, Nav, Navbar, NavDropdown } from 'react-bootstrap';
+import { Col, Image, Nav, Navbar, NavDropdown } from 'react-bootstrap';
 import { NavbarStyle } from './styled';
 
 export default function MyNavBar({ bg, expand, variant, ...props }) {

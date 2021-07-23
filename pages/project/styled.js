@@ -1,5 +1,6 @@
 import styled from 'styled-components';
 
-export const ProjectStyle = styled.div`
+const ProjectStyle = styled.div`
   height: 100%;
 `;
+export default ProjectStyle;

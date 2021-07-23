@@ -1,7 +1,7 @@
 import React from 'react';
 import { Category, Layout } from 'components';
 
-import { ProductPageStyle } from './styled';
+import ProductPageStyle from './styled';
 
 export default function Productpage() {
   const products = [

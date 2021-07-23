@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 //import VARIABLES from '../../themes/variables'
 
 // Wrapper
@@ -39,4 +39,4 @@ export const ContainerStyle = styled.div`
 
   /* Media queries
   ------------------------------- */
-`
+`;

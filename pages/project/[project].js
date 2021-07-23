@@ -2,8 +2,7 @@ import { Layout, Image } from 'components';
 import Link from 'next/link';
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
-import { height } from 'styled-system';
-import { ProjectStyle } from './styled';
+import ProjectStyle from './styled';
 
 export default function Project() {
   return (
@@ -16,11 +15,7 @@ export default function Project() {
                 <Col xs={12} sm={12} md={3}>
                   <Link className="mouse-pointer" href="/type/3D-27.50">
                     <div className="text-center  mouse-pointer">
-                      <Image
-                        className="col-md-12 ml-auto mr-auto"
-                        style={{ height: '250px', width: 'auto' }}
-                        src="../images/Cover_27.5.jpg"
-                      />
+                      <Image className="col-md-12 ml-auto mr-auto" style={{ height: '250px', width: 'auto' }} src="../images/Cover_27.5.jpg" />
                       <strong>แบบที่ 1 ขนาด 27.5 ตร.ม.</strong>
                     </div>
                   </Link>
