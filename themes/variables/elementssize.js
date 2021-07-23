@@ -1,0 +1,10 @@
+export default {
+  NAVBAR_HEIGHT: '85px',
+  NAVBAR_HEIGHT_SM: '85px',
+  NAVBAR_HEIGHT_XS: '70px',
+  NAVBAR_HEIGHT_XXS: '60px',
+  SIDEBAR_WIDTH: '500px',
+  SIDEBAR_WIDTH_SM: '270px',
+  SIDEBAR_WIDTH_XS: '250px',
+  SIDEBAR_WIDTH_XXS: '230px',
+};

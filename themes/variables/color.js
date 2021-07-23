@@ -1,0 +1,39 @@
+export default {
+  BLACK: '#000000',
+  WHITE: '#FFFFFF',
+  PRIMARY: '#00664F',
+  PRIMARY_HOVER: '#00765b',
+  SECONDARY: '#67917A',
+  SECONDARY_HOVER: '#649051',
+  TERTIARY: '#03440C',
+  TERTIARY_HOVER: '#013108',
+  //QUATERNARY: '#94A187',
+  QUATERNARY: '#698052',
+  QUATERNARY_HOVER: '#4e6834',
+
+  MAIN_BACKGROUND: '#F2F3F8',
+
+  GRAY_1: '#CCCCCC',
+  GRAY_2: '#AAAAAA',
+  GRAY_3: '#DDDDDD',
+  GRAY_4: '#BBBBBB',
+  GRAY_5: '#58595B',
+  GRAY_6: '#F1F2F2',
+  GRAY_7: '#C2C2C2',
+  GRAY_8: '#707070',
+  GRAY_9: '#939393',
+
+  GREEN_1: '#E2EDDD',
+  GREEN_2: '#03C196',
+
+  RED_1: '#FF2F2F',
+  RED_2: '#DB162F',
+
+  YELLOW_1: '#D9CC8D',
+  YELLOW_2: '#E1B865',
+
+  SHADOW_A: 'rgba(0, 0, 0, 0.1)',
+  SHADOW_B: 'rgba(0, 0, 0, 0.16)',
+  OVERLAY_1: 'rgba(0, 0, 0, 0.6)',
+  OVERLAY_2: 'rgba(255, 255, 255, 0.7)',
+};
