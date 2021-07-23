@@ -28,7 +28,7 @@ export default function Project() {
                         className="col-md-12 ml-auto mr-auto"
                         style={{ height: '250px', width: 'auto' }}
                         onClcik={() => {}}
-                        src="../images/Cover_32.jpg"
+                        src="../images/Cover_32.0.jpg"
                       />
                       <strong>แบบที่ 2 ขนาด 32 ตร.ม.</strong>
                     </div>
